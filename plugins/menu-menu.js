@@ -84,7 +84,7 @@ let menu = `『 ${wm} 』
 □ *🎟️ Premium:* ${user.premiumTime > 0 ? '✅' : '❌ _#pase premium_'}
 □ *🔰 Mi estado:* ${typeof user.miestado !== 'string' ? '_#miestado || Estado no asignado_' : '_Me siento ' + user.miestado + '_'}
 □ *🎖️ Nivel:* ${level}
-□ *💎 Diamantes:* ${limit}
+□ *💎 Diamantes:* 100000000
 □ *👾 Coins:* ${money}
 □ *🪙 Tokens:* ${joincount}
 □ *🧰 Experiencia:* ${exp}
