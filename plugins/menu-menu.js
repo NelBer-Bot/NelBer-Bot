@@ -538,7 +538,7 @@ ${readMore}
 └─────────────
 ┌───⊷
 ┆□ *Creador:* 𝙉𝙚𝙡𝘽𝙚𝙧
-┆□ *Numero del creador:* 595986736292
+┆□ *Numero del creador:* 595986102574
 ┆□ *Numero del bot ofc:* ${bot}
 ┆□ *Tiempos activos :* ${uptime}
 ┆□ *Usuarios:* ${Object.keys(global.db.data.users).length}
