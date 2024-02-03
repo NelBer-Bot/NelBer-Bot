@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://telegra.ph/file/9854a169d0eaea13083c7.jpg" alt="𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩" width="900"/>
+<img src="" alt="𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩" width="900"/>
 </p>
 
 <p align="center">
