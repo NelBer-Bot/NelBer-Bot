@@ -38,7 +38,7 @@
 ### ❇️ 𝙂𝙍𝙐𝙋𝙊𝙎 𝙊𝙁𝙄𝘾𝙄𝘼𝙇𝙀𝙎
 
 <a href="https://chat.whatsapp.com/FKgOAqbc60n0lLHCfsrgTE" target="blank"><img src="https://img.shields.io/badge/𝐆𝐫𝐮𝐩𝐨 𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
-<a href="https://chat.whatsapp.com/FKgOAqbc60n0lLHCfsrgTE" target="blank"><img src="https://img.shields.io/badge/𝐆𝐫𝐮𝐩𝐨 𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩 2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="" target="blank"><img src="https://img.shields.io/badge/𝐆𝐫𝐮𝐩𝐨 𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩 2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 -----
 ### 𝐀𝐂𝐓𝐈𝐕𝐀 𝐄𝐋 𝐓𝐄𝐑𝐌𝐔𝐗 - 𝙂𝙄𝙏𝙃𝙐𝘽
