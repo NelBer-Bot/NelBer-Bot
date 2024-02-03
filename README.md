@@ -1,7 +1,7 @@
 > <b>🚀 Versión actual: 1.5.5</b>
  
 <p align="center"> 
-<a href="https://github.com/elrebelde21"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=The-𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩++%F0%9F%90%88;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"></a> 
+<a href="https://github.com/NelBer-Bot"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=The-𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩++%F0%9F%90%88;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"></a> 
 </p>
 
 <p align="center">
@@ -9,8 +9,7 @@
 </p>
 
 <p align="center">
-<a href="#"><img title="𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩" src="https://img.shields.io/badge/SI TE AGRADA EL REPOSITORIO APOYAME CON UNA 🌟 ¡GRACIAS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a> 
-<img src="https://i.pinimg.com/originals/d4/3c/90/d43c902873d4db8c85974dfd0798030b.gif" height="28px">
+<a href="#"><img title="𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩" src="https://img.shields.io/badge/SI TE AGRADA EL REPOSITORIO APOYAME CON UNA 🌟 ¡GRACIAS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>  
 
 <p align="center">
@@ -18,41 +17,28 @@
 <a href="#"><img title="𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩" src="https://img.shields.io/badge/COMPATIBLE CON LA VERSIÓN MULTI DISPOSITIVOS DE WHATSAPP-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge">
 
 <p align="center">   
-<a href="https://github.com/elrebelde21/𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩/network/members"><img title="Forks" src="https://img.shields.io/github/forks/elrebelde21/𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/elrebelde21/𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/elrebelde21/𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/elrebelde21/The-𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/elrebelde21/𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://github.com/NelBer-Bot/𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩/network/members"><img title="Forks" src="https://img.shields.io/github/forks/elrebelde21/𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩?label=Forks&color=blue&style=flat-square"></a>
+<a href="https://github.com/NelBer-Bot/𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/elrebelde21/𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/NelBer-Bot/The-𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/elrebelde21/𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩?label=Stars&color=yellow&style=flat-square"></a>
 </p> 
 
 <div align="center">
-<a href="https://facebook.com/groups/872989990425789/">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-</a>
-<a href="https://www.youtube.com/@elrebelde.21">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-</a>
-<a href="https://www.tiktok.com/@𝙉𝙚𝙡𝘽𝙚𝙧-_?_t=8ge2zeRZ04r&_r=1" target="_blank"> <img src="https://img.shields.io/badge/-TikTok-%23E4405F?style=for-the-badge&logo=tiktok&logoColor=black" target="_blank"></a> <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="30px">
+<a href="" />
 </a>
 </div>
 
 ### 💫 𝗗𝘂𝗱𝗮 𝘀𝗼𝗯𝗿𝗲 𝗲𝗹 𝗯𝗼𝘁? 
 𝗖𝗼𝗻𝘁𝗮𝗰𝘁𝗮𝗺𝗲 ✨
 
-<a href="http://wa.me/5492266466080" target="blank"><img src="https://img.shields.io/badge/Creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
+<a href="http://wa.me/595986102574" target="blank"><img src="https://img.shields.io/badge/Creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
 
-<a href="http://wa.me/573183650526?text=.estado" target="blank"><img src="https://img.shields.io/badge/Bot oficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/595986102574?text=.estado" target="blank"><img src="https://img.shields.io/badge/Bot oficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 ### ❇️ 𝙂𝙍𝙐𝙋𝙊𝙎 𝙊𝙁𝙄𝘾𝙄𝘼𝙇𝙀𝙎
 
-<a href="https://chat.whatsapp.com/KzJWBDGlE38A9Lbc6TJExI" target="blank"><img src="https://img.shields.io/badge/𝙂𝙧𝙪𝙥𝙤 𝙇𝙤𝙡𝙞𝙗𝙤𝙩-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
-<a href="https://chat.whatsapp.com/BiozxvjQgo6L2QrfHK9V7R" target="blank"><img src="https://img.shields.io/badge/𝙂𝙧𝙪𝙥𝙤 𝙇𝙤𝙡𝙞𝙗𝙤𝙩 2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/EjiaKJWvzaiAmvktpScgEc" target="blank"><img src="https://img.shields.io/badge/🐈 𝐆𝐚𝐭𝐚𝐁𝐨𝐭 & 𝐋𝐨𝐥𝐢𝐁𝐨𝐭 🥳-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/K7RzcVdxGqhGP5dCpVENSI" target="blank"><img src="https://img.shields.io/badge/𝐋𝐨𝐥𝐢𝐁𝐨𝐭 & 𝐙𝐢𝐫𝐚𝐱𝐁𝐨𝐭 -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/KLpYFsitkgzJ15YQxZrBqO" target="blank"><img src="https://img.shields.io/badge/💖 🅜🅤🅛🅣🅘 🅑🅞🅣🅢 💖-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-
-<a href="https://chat.whatsapp.com/FRkr7jJHSJA5OjVtE64dDs" target="blank"><img src="https://img.shields.io/badge/Grupo ayuda sobre el bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
+<a href="https://chat.whatsapp.com/FKgOAqbc60n0lLHCfsrgTE" target="blank"><img src="https://img.shields.io/badge/𝐆𝐫𝐮𝐩𝐨 𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
+<a href="https://chat.whatsapp.com/FKgOAqbc60n0lLHCfsrgTE" target="blank"><img src="https://img.shields.io/badge/𝐆𝐫𝐮𝐩𝐨 𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩 2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=10&duration=3000&pause=1000&color=34F6F7&center=falso&vCenter=falso&width=435&lines=%C3%9Anete+y+Conoce+las+%C3%9Altimas+Novedades!!)](https://git.io/typing-svg)
 [![blog](https://img.shields.io/badge/Canal-actulizaciones-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
@@ -71,7 +57,7 @@ apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - 
 -----
 ### 📁 (OPCIÓN 2) 𝐀𝐂𝐓𝐈𝐕𝐀 𝐄𝐋 𝐓𝐄𝐑𝐌𝐔𝐗 - 𝘼𝙍𝘾𝙃𝙄𝙑𝙊𝙎 
 > **Note** Descargué y Descomprime
-### [`𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩 ~ Archivos`](https://github.com/elrebelde21/𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩/archive/refs/heads/master.zip)
+### [`𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩 ~ Archivos`](https://github.com/NelBer-Bot/𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩/archive/refs/heads/master.zip)
 [![blog](https://img.shields.io/badge/Termux-𝙉𝙚𝙡𝘽𝙚𝙧-MD-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ](https://youtu.be/i1xjB4bmYCc?si=JBYC22-3mBkLpB8c)
 ```bash
@@ -148,7 +134,7 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 ### BoxMine World
 ----
 ### 🟣 ACTIVAR EN HEROKU 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/elrebelde21/𝙉𝙚𝙡𝘽𝙚𝙧-MD-Heroku) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NelBer-Bot/𝙉𝙚𝙡𝘽𝙚𝙧-MD-Heroku) 
 ### 👇 Añada lo siguente al Buildpack: 
 ```bash
 heroku/nodejs
@@ -187,7 +173,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Descargar e instala ImageMagick [`Aquí`](https://imagemagick.org/script/download.php)
 * Descargar e instala Yarn [`Aquí`](https://classic.yarnpkg.com/en/docs/install#windows-stable)
 ```bash
-git clone https://github.com/elrebelde21/𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩 && cd 𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩 && npm install && npm update && node .
+git clone https://github.com/NelBer-Bot/𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩 && cd 𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩 && npm install && npm update && node .
 ```
 ## 💻 Instalación de FFmpeg para Windows 
 * Descarga cualquiera de las versiones de FFmpeg disponibles haciendo clic en [FFmpeg](https://www.gyan.dev/ffmpeg/builds/).
@@ -216,7 +202,7 @@ Si tiene éxito, le dará un mensaje como: `SUCCESS: specified value was saved`.
 ----
 
 ### 🌟 EDITOR Y PROPIETARIO DEL BOT
-<a href="https://github.com/elrebelde21"><img src="https://github.com/elrebelde21.png" width="300" height="300" alt="elrebelde21"/></a>
+<a href="https://github.com/NelBer-Bot"><img src="https://github.com/NelBer-Bot.png" width="300" height="300" alt="elrebelde21"/></a>
 
 ### 🌟 COLABORADORES
 [![GataNina-Li](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li) 
