@@ -123,9 +123,6 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 > **Warning** Estos comandos solo funcionan para TERMUX, REPLIT, LINUX             
 -----
 ### ✅ QUIERE TENER EL BOT 24/7 ACTIVO ACTIVAR EL BOXMINEHOST  
-[![blog](https://img.shields.io/badge/BoxMine-The𝙉𝙚𝙡𝘽𝙚𝙧-MD-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-](https://youtu.be/wWyBHtKzx9Q?si=ihODwzs0pnVhzs5s)
-
 <a href="https://boxmineworld.com"><img src="https://i.imgur.com/allAyd4.png" height="125px"></a>
 ### BoxMine World
 ----
