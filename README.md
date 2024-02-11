@@ -1,7 +1,7 @@
 > <b>🚀 Versión actual: 1.5.5</b>
  
 <p align="center"> 
-<a href="https://github.com/NelBer-Bot"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=The-𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩++%F0%9F%90%88;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"></a> 
+<a href="https://github.com/NelBer-Bothttps://github.com/NelBer-Bot.png"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=The-𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩++%F0%9F%90%88;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"></a> 
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩.png"><img title="𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩" src="https://img.shields.io/badge/SI TE AGRADA EL REPOSITORIO APOYAME CON UNA 🌟 ¡GRACIAS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="https://github.com/NelBer-Bot.png"><img title="𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩" src="https://img.shields.io/badge/SI TE AGRADA EL REPOSITORIO APOYAME CON UNA 🌟 ¡GRACIAS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>  
 
 <p align="center">
@@ -54,7 +54,7 @@ apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - 
 ### 📁 (OPCIÓN 2) 𝐀𝐂𝐓𝐈𝐕𝐀 𝐄𝐋 𝐓𝐄𝐑𝐌𝐔𝐗 - 𝘼𝙍𝘾𝙃𝙄𝙑𝙊𝙎 
 > **Note** Descargué y Descomprime
 ### [`𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩 ~ Archivos`](https://github.com/NelBer-Bot/𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩/archive/refs/heads/master.zip)
-[![blog](https://github.com/𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩.png)
+[![blog](https://github.com/NelBer-Bot.png)
 ](https://youtu.be/i1xjB4bmYCc?si=JBYC22-3mBkLpB8c)
 ```bash
 termux-setup-storage
