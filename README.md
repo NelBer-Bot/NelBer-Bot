@@ -1,7 +1,7 @@
 > <b>🚀 Versión actual: 1.5.5</b>
  
 <p align="center"> 
-<a href="https://github.com/NelBer-Bot"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=The-𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩++%F0%9F%90%88;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"></a> 
+<a href="https://github.com/NelBer-Bot"><img src="https://github.com/NelBer-Bot.png" height="90px"></a> 
 </p>
 
 <p align="center">
@@ -17,9 +17,9 @@
 <a href="#"><img title="𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩" src="https://img.shields.io/badge/COMPATIBLE CON LA VERSIÓN MULTI DISPOSITIVOS DE WHATSAPP-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge">
 
 <p align="center">   
-<a href="https://github.com/NelBer-Bot/𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩/network/members"><img title="Forks" src="https://img.shields.io/github/forks/elrebelde21/𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/NelBer-Bot/𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/elrebelde21/𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/NelBer-Bot/The-𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/elrebelde21/𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://github.com/NelBer-Bot/𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩/network/members"><img title="Forks" src="https://github.com/NelBer-Bot.png"></a>
+<a href="https://github.com/NelBer-Bot/𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩/watchers"><img title="Watchers" src="https://github.com/NelBer-Bot.png"></a>
+<a href="https://github.com/NelBer-Bot/The-𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩/stargazers"><img title="Stars" src="https://github.com/NelBer-Bot.png"></a>
 </p> 
 
 <div align="center">
@@ -30,15 +30,15 @@
 ### 💫 𝗗𝘂𝗱𝗮 𝘀𝗼𝗯𝗿𝗲 𝗲𝗹 𝗯𝗼𝘁? 
 𝗖𝗼𝗻𝘁𝗮𝗰𝘁𝗮𝗺𝗲 ✨
 
-<a href="http://wa.me/595986102574" target="blank"><img src="https://img.shields.io/badge/Creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
+<a href="http://wa.me/595986102574" target="blank"><img src="https://github.com/NelBer-Bot.png" /> 
 
-<a href="http://wa.me/595986102574?text=.estado" target="blank"><img src="https://img.shields.io/badge/Bot oficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/595986102574?text=.estado" target="blank"><img src="https://github.com/NelBer-Bot.png" />
 </a>
 
 ### ❇️ 𝙂𝙍𝙐𝙋𝙊𝙎 𝙊𝙁𝙄𝘾𝙄𝘼𝙇𝙀𝙎
 
-<a href="https://chat.whatsapp.com/FKgOAqbc60n0lLHCfsrgTE" target="blank"><img src="https://img.shields.io/badge/𝐆𝐫𝐮𝐩𝐨 𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
-<a href="" target="blank"><img src="https://img.shields.io/badge/𝐆𝐫𝐮𝐩𝐨 𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩 2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/FKgOAqbc60n0lLHCfsrgTE" target="blank"><img src="https://github.com/NelBer-Bot.png" /> 
+<a href="" target="blank"><img src="https://github.com/NelBer-Bot.png" />
 
 -----
 ### 𝐀𝐂𝐓𝐈𝐕𝐀 𝐄𝐋 𝐓𝐄𝐑𝐌𝐔𝐗 - 𝙂𝙄𝙏𝙃𝙐𝘽
@@ -54,8 +54,8 @@ apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - 
 ### 📁 (OPCIÓN 2) 𝐀𝐂𝐓𝐈𝐕𝐀 𝐄𝐋 𝐓𝐄𝐑𝐌𝐔𝐗 - 𝘼𝙍𝘾𝙃𝙄𝙑𝙊𝙎 
 > **Note** Descargué y Descomprime
 ### [`𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩 ~ Archivos`](https://github.com/NelBer-Bot/𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩/archive/refs/heads/master.zip)
-[![blog](https://img.shields.io/badge/Termux-𝙉𝙚𝙡𝘽𝙚𝙧-MD-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-](https://youtu.be/i1xjB4bmYCc?si=JBYC22-3mBkLpB8c)
+[![blog](https://github.com/NelBer-Bot.png)
+]()
 ```bash
 termux-setup-storage
 ```
@@ -123,8 +123,8 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 > **Warning** Estos comandos solo funcionan para TERMUX, REPLIT, LINUX             
 -----
 ### ✅ QUIERE TENER EL BOT 24/7 ACTIVO ACTIVAR EL BOXMINEHOST  
-[![blog](https://img.shields.io/badge/BoxMine-The𝙉𝙚𝙡𝘽𝙚𝙧-MD-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-](https://youtu.be/wWyBHtKzx9Q?si=ihODwzs0pnVhzs5s)
+[![https://github.com/NelBer-Bot.png)
+]()
 
 <a href="https://boxmineworld.com"><img src="https://i.imgur.com/allAyd4.png" height="125px"></a>
 ### BoxMine World
