@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-<img src="" alt="𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩" width="900"/>
+<img src="https://github.com/NelBer-Bot.png" alt="𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩" width="900"/>
 </p>
 
 <p align="center">
-<a href="https://github.com/NelBer-Bot.png"><img title="𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩" src="https://img.shields.io/badge/SI TE AGRADA EL REPOSITORIO APOYAME CON UNA 🌟 ¡GRACIAS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="𝙉𝙚𝙡𝘽𝙚𝙧-𝘽𝙤𝙩" src="https://img.shields.io/badge/SI TE AGRADA EL REPOSITORIO APOYAME CON UNA 🌟 ¡GRACIAS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>  
 
 <p align="center">
