@@ -198,4 +198,4 @@ Si tiene éxito, le dará un mensaje como: `SUCCESS: specified value was saved`.
 ----
 
 ### 🌟 EDITOR Y PROPIETARIO DEL BOT
-<a href="https://github.com/NelBer-Bot"><img src="https://www.dropbox.com/scl/fi/nxkmoh0pqobm20laugg08/NelBer-Bot.png?rlkey=8m5e6177d3oh011topz7ef7tg&dl=0" width="300" height="300" alt="NelBer"/></a>
+<a href="https://github.com/NelBer-Bot"><img src="https://github.com/NelBer-Bot/NelBer-Bot/tree/master?tab=readme-ov-file" width="300" height="300" alt="NelBer"/></a>
